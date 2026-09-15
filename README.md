@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Vinicius Santos Conceição!
+# 👋 Olá, eu sou Vinícius Santos Conceição!
 
 🎓 Estudante de **Engenharia de Software**  
 💻 Desenvolvedor Backend em formação  
