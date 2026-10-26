@@ -19,7 +19,6 @@ Atualmente, continuo aprimorando minhas habilidades em programação e desenvolv
 - Java e Spring Boot
 - Banco de Dados
 - Desenvolvimento de APIs
-- Boas práticas de programação
 
 ## Objetivo
 
