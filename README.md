@@ -5,7 +5,7 @@
 
 <br/>
 
-!Java !Spring Boot !Python !JavaScript !HTLM5 !CSS
+!Java !Spring Boot !MySQL !Git
 
 <br/>
 
@@ -49,13 +49,7 @@ São Paulo, Brasil
 
 </div>
 
-!Java
-
-!Spring Boot
-
-!Python
-
-!APIs REST
+!Java !Spring Boot !APIs REST
 
 </td>
 <td width="50%" bgcolor="#202C46">
@@ -66,11 +60,7 @@ São Paulo, Brasil
 
 </div>
 
-!HTML5
-
-!CSS3
-
-!JavaScript
+!HTML5 !CSS3 !JavaScript
 
 </td>
 </tr>
@@ -147,3 +137,9 @@ Meu objetivo é ampliar minhas habilidades em desenvolvimento Full Stack, aprofu
 コードを書き、学び、成長する。
 
 Codificar, aprender e evoluir.
+
+<br/><br/>
+
+VINNY SANTOS DEV · 2026
+
+</div>
