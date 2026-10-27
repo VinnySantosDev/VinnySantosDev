@@ -26,6 +26,7 @@ Hoje meu foco é me tornar um desenvolvedor Full Stack, capaz de cuidar de uma a
 
 ## Atualmente estudando
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
@@ -59,6 +60,7 @@ Boas práticas de código
 </td>
 </tr>
 </table>
+<div align="center">
 
 ## Tecnologias
 
