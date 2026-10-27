@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:102A43,45:486581,75:A7C7D9,100:E8C4D8&text=Vin%C3%ADcius%20Santos&fontColor=F0F7FA&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=55&descSize=16" width="100%" alt="Banner em ondas em tons frios"/>
-<br/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:102A43,45:486581,75:A7C7D9,100:E8C4D8&text=Vin%C3%ADcius%20Santos&fontColor=F0F7FA&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=16" width="100%" alt="Banner em ondas em tons frios"/>
 静かな心、確かなコード。
 
 Uma mente tranquila, um código bem construído.
