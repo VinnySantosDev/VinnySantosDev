@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:102A43,45:486581,75:A7C7D9,100:E8C4D8&text=Vin%C3%ADcius%20Santos&fontColor=F0F7FA&fontSize=42&fontAlignY=40&desc=Backend%20Developer%20in%20Progress&descAlignY=60&descSize=16" width="100%" alt="Banner em tons frios inspirado nas paisagens japonesas"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:102A43,45:486581,75:A7C7D9,100:E8C4D8&text=Vin%C3%ADcius%20Santos&fontColor=F0F7FA&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=60&descSize=16" width="100%" alt="Banner em tons frios inspirado nas paisagens japonesas"/>
 
 <br/>
 
@@ -12,34 +12,47 @@ Uma mente tranquila, um código bem construído.
 
 </div>
 
-Sobre mim
+## Sobre mim
 
-Olá! Eu sou Vinícius Santos Conceição.
+Olá! Eu sou **Vinícius Santos Conceição**.
 
-💻 Desenvolvedor FullStack em formação
+💻 Desenvolvedor Full Stack em formação
 📍 São Paulo, SP — Brasil
-🌱 Sempre buscando aprender e evoluir na área de tecnologia
+🌱 Construindo aplicações do banco de dados à interface
 
-Concluí meus estudos no SENAC São Bernardo do Campo, onde desenvolvi conhecimentos e interesse pela área de tecnologia.
+Estudei no SENAC São Bernardo do Campo, onde comecei a desenvolver sistemas e descobri meu interesse por tecnologia.
 
-Atualmente, continuo aprimorando minhas habilidades em programação e desenvolvimento de sistemas, buscando colocar meus conhecimentos em prática por meio de projetos e estudos.
+Hoje meu foco é o desenvolvimento web completo: modelar o banco de dados, construir a API no backend e entregar a interface que o usuário vê.
 
-Atualmente estudando
+## Atualmente estudando
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-Backend
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html&theme=light" height="32" alt="HTML5"/>
+
+HTML5
+Estrutura e semântica de páginas
+Interfaces para web
+
+</td>
+<td width="33%" valign="top">
+
+**Backend**
+
 Java
 Python
 Desenvolvimento de APIs
 Arquitetura de aplicações
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-Fundamentos
+**Fundamentos**
+
 Banco de dados
 Lógica de programação
 Desenvolvimento de sistemas
@@ -49,18 +62,25 @@ Boas práticas de código
 </tr>
 </table>
 
-Tecnologias
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html5,mysql,git,github&theme=light" alt="Python, HTML5, MySQL, Git e GitHub"/>
+<img src="https://skillicons.dev/icons?i=html,python,java,mysql,git,github&theme=light" alt="HTML5, Python, Java, MySQL, Git e GitHub"/>
+
 </div>
 
-Meu objetivo
+## Projetos
 
-Meu objetivo é crescer profissionalmente na área de tecnologia, adquirir experiência prática como desenvolvedor e continuar aprendendo novas tecnologias para criar soluções eficientes e de qualidade.
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Nome do projeto](https://github.com/vinisconcei/repositorio) | O que ele faz, em uma linha | HTML · Python · MySQL |
 
-Acredito que a evolução acontece com dedicação, curiosidade e consistência. Sempre um passo de cada vez com paciência e foco.
+## Meu objetivo
+
+Conquistar minha primeira experiência como desenvolvedor e evoluir como Full Stack, entregando aplicações completas e bem construídas.
+
+Um passo de cada vez, com paciência e foco.
 
 <div align="center">
 
