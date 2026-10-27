@@ -1,11 +1,6 @@
 <div align="center">
 
-<span style="color:#A7C7E7">VINÍCIUS SANTOS CONCEIÇÃO</span>
-<span style="color:#8BAFD4">DESENVOLVEDOR BACKEND</span>
-
-<br/>
-
-!Java !Spring Boot !MySQL !Git
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:102A43,45:486581,75:A7C7D9,100:E8C4D8&text=Vin%C3%ADcius%20Santos&fontColor=F0F7FA&fontSize=42&fontAlignY=40&desc=Backend%20Developer%20in%20Progress&descAlignY=60&descSize=16" width="100%" alt="Banner em tons frios inspirado nas paisagens japonesas"/>
 
 <br/>
 
@@ -13,132 +8,76 @@
 
 Uma mente tranquila, um código bem construído.
 
+![GitHub](https://img.shields.io/badge/GitHub-102A43?style=flat-square&logo=github&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-486581?style=flat-square&logo=openjdk&logoColor=FFFFFF) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-52796F?style=flat-square&logo=springboot&logoColor=FFFFFF)
+
 </div>
 
-<span style="color:#8BAFD4">01. SOBRE MIM</span>
+🗻 Sobre mim
+
+Olá! Eu sou Vinícius Santos Conceição.
+
+🎓 Estudante de Engenharia de Software
+💻 Desenvolvedor Backend em formação
+📍 São Paulo, SP — Brasil
+🌱 Sempre buscando aprender e evoluir na área de tecnologia
+
+Concluí meus estudos no SENAC São Bernardo do Campo, onde desenvolvi conhecimentos e interesse pela área de tecnologia.
+
+Atualmente, continuo aprimorando minhas habilidades em programação e desenvolvimento de sistemas, buscando colocar meus conhecimentos em prática por meio de projetos e estudos.
+
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?auto=format&fit=crop&w=1200&q=85" width="100%" alt="Paisagem japonesa com arquitetura tradicional e atmosfera tranquila"/>
+
+</div>
+
+🌿 Atualmente estudando
 
 <table>
 <tr>
-<td bgcolor="#101D33">
+<td width="50%" valign="top">
 
-PERFIL PROFISSIONAL
+🍃 Backend
+Java
+Spring Boot
+Desenvolvimento de APIs
+Arquitetura de aplicações
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
-Desenvolvedor com foco em Backend e desenvolvimento de sistemas, interessado na criação de aplicações eficientes, organizadas e confiáveis.
-
-Busco desenvolver soluções bem estruturadas, aplicar boas práticas de programação e aprimorar continuamente minhas habilidades técnicas.
-
-<br/>
-
-LOCALIZAÇÃO
-
-São Paulo, Brasil
+🌊 Fundamentos
+Banco de dados
+Lógica de programação
+Desenvolvimento de sistemas
+Boas práticas de código
 
 </td>
 </tr>
 </table>
 
-<span style="color:#8BAFD4">02. TECNOLOGIAS</span>
-
-<table>
-<tr>
-<td width="50%" bgcolor="#172B4D">
+🛠️ Tecnologias
 
 <div align="center">
 
-<span style="color:#C6DDF5">BACKEND</span>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github&theme=light" alt="Java, Spring, MySQL, PostgreSQL, Git e GitHub"/>
 
 </div>
 
-!Java
+🎯 Meu objetivo
 
-!Spring Boot
+Meu objetivo é crescer profissionalmente na área de tecnologia, adquirir experiência prática como desenvolvedor e continuar aprendendo novas tecnologias para criar soluções eficientes e de qualidade.
 
-!APIs REST
-
-</td>
-<td width="50%" bgcolor="#202C46">
+Acredito que a evolução acontece com dedicação, curiosidade e consistência — um passo de cada vez, como quem percorre o caminho até o Monte Fuji.
 
 <div align="center">
 
-<span style="color:#D6D5F5">FERRAMENTAS</span>
-
-</div>
-
-!MySQL
-
-!PostgreSQL
-
-!Git
-
-!GitHub
-
-</td>
-</tr>
-</table>
-
-<span style="color:#8BAFD4">03. ÁREAS DE INTERESSE</span>
-
-<table>
-<tr>
-<td bgcolor="#172B4D">
-
-DESENVOLVIMENTO BACKEND
-
-Lógica de negócio, processamento e serviços.
-
-</td>
-</tr>
-<tr>
-<td bgcolor="#202C46">
-
-DESENVOLVIMENTO DE APIs
-
-Integração entre sistemas e criação de APIs REST.
-
-</td>
-</tr>
-<tr>
-<td bgcolor="#273650">
-
-BANCOS DE DADOS
-
-Modelagem, consultas e persistência de informações.
-
-</td>
-</tr>
-<tr>
-<td bgcolor="#303D59">
-
-QUALIDADE DE SOFTWARE
-
-Organização, legibilidade e manutenção do código.
-
-</td>
-</tr>
-</table>
-
-<span style="color:#8BAFD4">04. OBJETIVO PROFISSIONAL</span>
-
-Desenvolver soluções de software eficientes, escaláveis e bem estruturadas, contribuindo para projetos que resolvam problemas reais.
-
-Meu objetivo é aprofundar meus conhecimentos técnicos, aprimorar minhas práticas de desenvolvimento e criar aplicações confiáveis, priorizando desempenho, organização e qualidade.
-
-<div align="center">
-
-<span style="color:#A7C7E7">PRINCÍPIOS</span>
-
-!Clareza !Consistência !Qualidade
-
-<br/>
+🌸 Obrigado pela visita!
 
 コードを書き、学び、成長する。
 
 Codificar, aprender e evoluir.
 
-<br/><br/>
-
-VINNY SANTOS DEV · 2026
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:486581,100:A7C7D9&height=110&section=footer" width="100%" alt="Rodapé em tons de azul inspirado nas paisagens japonesas"/>
 
 </div>
