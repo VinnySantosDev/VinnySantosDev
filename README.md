@@ -8,7 +8,7 @@
 
 Uma mente tranquila, um código bem construído.
 
-[![Email](https://img.shields.io/badge/vinisconcei@gmail.com-102A43?style=flat-square&logo=gmail&logoColor=FFFFFF)](mailto:vinisconcei@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinisconcei-486581?style=flat-square)](https://www.linkedin.com/in/vinisconcei/)
+[![Email](https://img.shields.io/badge/vinisconcei@gmail.com-102A43?style=flat-square&logo=gmail&logoColor=FFFFFF)](https://mail.google.com/mail/?view=cm&fs=1&to=vinisconcei@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinisconcei-486581?style=flat-square)](https://www.linkedin.com/in/vinisconcei/)
 
 </div>
 
