@@ -22,7 +22,7 @@ Olá! Eu sou **Vinícius Santos Conceição**.
 
 Estudei no SENAC São Bernardo do Campo, onde comecei a desenvolver sistemas e descobri meu interesse por tecnologia.
 
-Hoje meu foco é o desenvolvimento web completo: modelar o banco de dados, construir a API no backend e entregar a interface que o usuário vê.
+Hoje meu foco é me tornar um desenvolvedor Full Stack, capaz de cuidar de uma aplicação de ponta a ponta, do banco de dados e do backend até o frontend.
 
 ## Atualmente estudando
 
