@@ -1,11 +1,11 @@
 <div align="center">
 
-VINÍCIUS SANTOS CONCEIÇÃO
-DESENVOLVEDOR BACKEND
+<span style="color:#A7C7E7">VINÍCIUS SANTOS CONCEIÇÃO</span>
+<span style="color:#8BAFD4">DESENVOLVEDOR FULL STACK</span>
 
-JAVA · SPRING BOOT · BANCOS DE DADOS · DESENVOLVIMENTO DE APIs
+<br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-VinnySantosDev-243B53?style=flat-square&logo=github&logoColor=DCE6F1) ![Java](https://img.shields.io/badge/Java-486581?style=flat-square&logo=openjdk&logoColor=FFFFFF) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-52796F?style=flat-square&logo=springboot&logoColor=FFFFFF)
+!Java !Spring Boot !Python !JavaScript !HTLM5 !CSS
 
 <br/>
 
@@ -15,80 +15,135 @@ Uma mente tranquila, um código bem construído.
 
 </div>
 
+<span style="color:#8BAFD4">01. SOBRE MIM</span>
+
 <table>
 <tr>
-<td width="100%" bgcolor="#102A43">
+<td bgcolor="#101D33">
 
-SOBRE MIM
+PERFIL PROFISSIONAL
 
-Desenvolvedor com foco em Backend e desenvolvimento de sistemas, interessado na construção de aplicações eficientes, organizadas e confiáveis.
+<br/><br/>
 
-Busco criar soluções bem estruturadas, escrever código de qualidade e aprimorar continuamente meus conhecimentos em tecnologias voltadas ao desenvolvimento de software.
+Desenvolvedor com foco em Full Stack e desenvolvimento de sistemas, interessado na criação de aplicações completas, eficientes, organizadas e confiáveis.
 
-Localização: São Paulo, Brasil
+Busco desenvolver soluções que integrem interfaces intuitivas, lógica de negócio e bancos de dados, aplicando boas práticas de programação e aprimorando continuamente minhas habilidades técnicas.
+
+LOCALIZAÇÃO
+
+São Paulo, Brasil
 
 </td>
 </tr>
 </table>
 
-HABILIDADES TÉCNICAS
+<span style="color:#8BAFD4">02. TECNOLOGIAS</span>
 
 <table>
 <tr>
-<td width="50%" bgcolor="#243B53">
-
-DESENVOLVIMENTO BACKEND
-
-Java
-
-Spring Boot
-
-APIs REST
-
-</td>
-<td width="50%" bgcolor="#334E68">
-
-BANCOS DE DADOS E FERRAMENTAS
-
-MySQL
-
-PostgreSQL
-
-Git e GitHub
-
-</td>
-</tr>
-</table>
-
-ÁREAS DE INTERESSE
-Área	Foco
-Desenvolvimento Backend	Lógica de negócio e serviços
-Desenvolvimento de APIs	Criação e integração de APIs REST
-Gerenciamento de bancos de dados	Modelagem e persistência de dados
-Arquitetura de software	Organização e manutenção de sistemas
-Qualidade de código	Legibilidade, boas práticas e eficiência
-OBJETIVO PROFISSIONAL
-
-Desenvolver soluções de software eficientes, escaláveis e bem estruturadas, contribuindo para projetos que resolvam problemas reais.
-
-Busco aprofundar meus conhecimentos técnicos, aprimorar minhas habilidades de desenvolvimento e transformar ideias em aplicações confiáveis, priorizando qualidade, desempenho e organização.
+<td width="50%" bgcolor="#172B4D">
 
 <div align="center">
 
-PRINCÍPIOS
+<span style="color:#C6DDF5">BACKEND</span>
 
-CLAREZA   ·   CONSISTÊNCIA   ·   QUALIDADE
+</div>
+
+!Java
+
+!Spring Boot
+
+!Python
+
+!APIs REST
+
+</td>
+<td width="50%" bgcolor="#202C46">
+
+<div align="center">
+
+<span style="color:#D6D5F5">FRONTEND</span>
+
+</div>
+
+!HTML5
+
+!CSS3
+
+!JavaScript
+
+</td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#273650">
+
+<div align="center">
+
+<span style="color:#C6DDF5">BANCOS DE DADOS E FERRAMENTAS</span>
+
+!MySQL !PostgreSQL !Git !GitHub
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<span style="color:#8BAFD4">03. ÁREAS DE INTERESSE</span>
+
+<table>
+<tr>
+<td bgcolor="#172B4D">
+
+DESENVOLVIMENTO FULL STACK
+
+Criação de aplicações completas, desde a interface até a lógica de negócio.
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#202C46">
+
+DESENVOLVIMENTO DE APIs
+
+Integração entre interfaces, serviços e sistemas por meio de APIs REST.
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#273650">
+
+BANCOS DE DADOS
+
+Modelagem, consultas e persistência de informações.
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#303D59">
+
+QUALIDADE DE SOFTWARE
+
+Organização, legibilidade, manutenção e eficiência do código.
+
+</td>
+</tr>
+</table>
+
+<span style="color:#8BAFD4">04. OBJETIVO PROFISSIONAL</span>
+
+Desenvolver soluções de software completas, eficientes e bem estruturadas, contribuindo para projetos que resolvam problemas reais.
+
+Meu objetivo é ampliar minhas habilidades em desenvolvimento Full Stack, aprofundar meus conhecimentos técnicos e criar aplicações confiáveis, priorizando desempenho, usabilidade, organização e qualidade.
+
+<div align="center">
+
+<span style="color:#A7C7E7">PRINCÍPIOS</span>
+
+!Clareza !Consistência !Qualidade
 
 <br/>
 
 コードを書き、学び、成長する。
 
-<br/>
-
 Codificar, aprender e evoluir.
-
-<br/>
-
-VINNY SANTOS DEV · 2026
-
-</div>
