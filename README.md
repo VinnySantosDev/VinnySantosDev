@@ -28,7 +28,7 @@ Hoje meu foco é me tornar um desenvolvedor Full Stack, capaz de cuidar de uma a
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **Frontend**
 
@@ -37,7 +37,7 @@ Estrutura e semântica de páginas<br/>
 Interfaces para web
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **Backend**
 
@@ -47,7 +47,7 @@ Desenvolvimento de APIs<br/>
 Arquitetura de aplicações
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **Fundamentos**
 
