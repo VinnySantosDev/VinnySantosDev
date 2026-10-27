@@ -25,12 +25,6 @@ Concluí meus estudos no SENAC São Bernardo do Campo, onde desenvolvi conhecime
 
 Atualmente, continuo aprimorando minhas habilidades em programação e desenvolvimento de sistemas, buscando colocar meus conhecimentos em prática por meio de projetos e estudos.
 
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?auto=format&fit=crop&w=1200&q=85" width="100%" alt="Paisagem japonesa com arquitetura tradicional e atmosfera tranquila"/>
-
-</div>
-
 🌿 Atualmente estudando
 
 <table>
