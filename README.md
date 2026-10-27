@@ -8,7 +8,7 @@
 
 Uma mente tranquila, um código bem construído.
 
-![GitHub](https://img.shields.io/badge/GitHub-102A43?style=flat-square&logo=github&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-486581?style=flat-square&logo=openjdk&logoColor=FFFFFF) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-52796F?style=flat-square&logo=springboot&logoColor=FFFFFF)
+[![Email](https://img.shields.io/badge/vinisconcei@gmail.com-102A43?style=flat-square&logo=gmail&logoColor=FFFFFF)](mailto:vinisconcei@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinisconcei-486581?style=flat-square)](https://www.linkedin.com/in/vinisconcei/)
 
 </div>
 
@@ -16,8 +16,7 @@ Uma mente tranquila, um código bem construído.
 
 Olá! Eu sou Vinícius Santos Conceição.
 
-🎓 Estudante de Engenharia de Software
-💻 Desenvolvedor Backend em formação
+💻 Desenvolvedor FullStack em formação
 📍 São Paulo, SP — Brasil
 🌱 Sempre buscando aprender e evoluir na área de tecnologia
 
@@ -54,8 +53,7 @@ Boas práticas de código
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github&theme=light" alt="Java, Spring, MySQL, PostgreSQL, Git e GitHub"/>
-
+<img src="https://skillicons.dev/icons?i=python,html5,mysql,git,github&theme=light" alt="Python, HTML5, MySQL, Git e GitHub"/>
 </div>
 
 🎯 Meu objetivo
