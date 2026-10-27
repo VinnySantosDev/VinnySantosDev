@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:102A43,45:486581,75:A7C7D9,100:E8C4D8&text=Vin%C3%ADcius%20Santos&fontColor=F0F7FA&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=60&descSize=16" width="100%" alt="Banner em tons frios inspirado nas paisagens japonesas"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:102A43,45:486581,75:A7C7D9,100:E8C4D8&text=Vin%C3%ADcius%20Santos&fontColor=F0F7FA&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=55&descSize=16" width="100%" alt="Banner em ondas em tons frios"/>
 <br/>
 
 静かな心、確かなコード。
@@ -84,6 +83,5 @@ Obrigado pela visita!
 
 Codificar, aprender e evoluir.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:486581,100:A7C7D9&height=110&section=footer" width="100%" alt="Rodapé em tons de azul inspirado nas paisagens japonesas"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:486581,100:A7C7D9&height=150&section=footer" width="100%" alt="Rodapé em ondas em tons de azul"/>
 </div>
