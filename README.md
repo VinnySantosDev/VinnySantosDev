@@ -16,8 +16,8 @@ Uma mente tranquila, um código bem construído.
 
 Olá! Eu sou **Vinícius Santos Conceição**.
 
-💻 Desenvolvedor Full Stack em formação
-📍 São Paulo, SP — Brasil
+💻 Desenvolvedor Full Stack em formação<br/>
+📍 São Paulo, SP — Brasil<br/>
 🌱 Construindo aplicações do banco de dados à interface
 
 Estudei no SENAC São Bernardo do Campo, onde comecei a desenvolver sistemas e descobri meu interesse por tecnologia.
@@ -32,10 +32,8 @@ Hoje meu foco é o desenvolvimento web completo: modelar o banco de dados, const
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html&theme=light" height="32" alt="HTML5"/>
-
-HTML5
-Estrutura e semântica de páginas
+HTML5<br/>
+Estrutura e semântica de páginas<br/>
 Interfaces para web
 
 </td>
@@ -43,9 +41,9 @@ Interfaces para web
 
 **Backend**
 
-Java
-Python
-Desenvolvimento de APIs
+Java<br/>
+Python<br/>
+Desenvolvimento de APIs<br/>
 Arquitetura de aplicações
 
 </td>
@@ -53,9 +51,9 @@ Arquitetura de aplicações
 
 **Fundamentos**
 
-Banco de dados
-Lógica de programação
-Desenvolvimento de sistemas
+Banco de dados<br/>
+Lógica de programação<br/>
+Desenvolvimento de sistemas<br/>
 Boas práticas de código
 
 </td>
@@ -69,12 +67,6 @@ Boas práticas de código
 <img src="https://skillicons.dev/icons?i=html,python,java,mysql,git,github&theme=light" alt="HTML5, Python, Java, MySQL, Git e GitHub"/>
 
 </div>
-
-## Projetos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Nome do projeto](https://github.com/vinisconcei/repositorio) | O que ele faz, em uma linha | HTML · Python · MySQL |
 
 ## Meu objetivo
 
