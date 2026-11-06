@@ -59,7 +59,7 @@ Boas práticas de código
 </table>
 <div align="center">
 
-## Tecnologias
+## Skills
 
 <div align="center">
 
